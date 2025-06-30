@@ -13,7 +13,8 @@ import {
   TrendingUp,
   Calendar,
   Award,
-  Mail
+  Mail,
+  CheckSquare
 } from "lucide-react";
 import { toast } from "sonner";
 
